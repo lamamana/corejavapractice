@@ -21,6 +21,7 @@ public class College {
 	//@Qualifier (value = "mathTeacherServiceImpl")
 	private TeacherService ts;
 	//
+	//
 	public void printCollege() {
 		
 		System.out.println("College Name = "+ name);
