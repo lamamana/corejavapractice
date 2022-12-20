@@ -20,7 +20,7 @@ public class College {
 	@Autowired
 	//@Qualifier (value = "mathTeacherServiceImpl")
 	private TeacherService ts;
-	
+	//
 	public void printCollege() {
 		
 		System.out.println("College Name = "+ name);
